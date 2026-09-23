@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm William Ferreira! 👋</h1>
-  <h3>Full Stack .NET Developer | Angular Specialist</h3>
+  <h3>Full Stack .NET Developer | Angular</h3>
   <p>
     Building scalable architectures and modern web solutions.
   </p>
